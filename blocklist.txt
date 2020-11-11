@@ -1,0 +1,44 @@
+||verification-va.byteoversea.com/captcha/report
+||byteoversea.com/slardar
+
+#tiktok
+||mcs-va.tiktokv.com^
+
+#youtube
+||youtube.com/pagead/^
+||youtube.com/ptracking?^
+||youtube.com/api/stats/qoe?^
+||youtube.com/api/stats/ads?^
+||youtube.com/api/stats/atr^
+||youtube.com/get_video_info?^
+||youtube.com/api/stats/qoe?
+||www.youtube.com/ptracking^
+||www.youtube.com/pagead^
+||youtube.com###masthead-ad^
+||youtube.com##.ytp-ad-progress-list^
+||youtube.com##.video-ads^
+||youtube.com##.ad-container^
+||flashtalking.com$domain=youtube.com^
+||www.youtube.com/[[computeEmptyGif_()]]$image
+||www.youtube.com/[[computeThumbnailUrl_(data.thumbnail)]]
+||www.google.*/pagead$domain=youtube.com
+||s0.2mdn.net/ads
+||google.com/pagead/^
+||googletagmanager.com/gtm.js^
+
+#espn
+||livesegmentservice.com^$3p
+||unid.go.com^$3p
+
+#MSN
+||msn.com###onetrust-banner-sdk^important
+#||msn.com###onetrust-banner-sdk > div.ot-sdk-container > div.ot-sdk-row
+||msn.com###onetrust-consent-sdk^important
+||amazonaws.com/ki.js/
+
+#fanbase wikia sites
+||beacon.wikia-services.com^
+||collector.githubapp.com^
+
+#block recusive list local ip
+||in-addr.arpa^
