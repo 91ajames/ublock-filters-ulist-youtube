@@ -29,6 +29,7 @@ r6---sn-p5qs7ner.googlevideo.com
 r3---sn-p5qs7ner.googlevideo.com
 r3---sn-vgqsenlz.googlevideo.com
 r6---sn-p5qs7nes.googlevideo.com
+r3---sn-p5qlsndz.googlevideo.com
 
 #XboxOne
 r2---sn-p5qs7nek.googlevideo.com
