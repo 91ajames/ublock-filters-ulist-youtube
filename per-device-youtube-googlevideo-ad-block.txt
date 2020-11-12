@@ -53,10 +53,23 @@ r6---sn-vgqsrn76.googlevideo.com
 r4---sn-p5qlsndz.googlevideo.com	
 r3---sn-p5qlsndd.googlevideo.com
 
-
-
 #XboxOne
 r2---sn-p5qs7nek.googlevideo.com
+r3---sn-p5qlsndk.googlevideo.com	
+r3---sn-vgqsrnes.googlevideo.com	
+r4---sn-p5qs7nee.googlevideo.com	
+r5---sn-p5qlsndk.googlevideo.com	
+r6---sn-p5qs7nee.googlevideo.com	
+r2---sn-vgqsenls.googlevideo.com	
+r1---sn-vgqsrnee.googlevideo.com	
+r4---sn-p5qs7ned.googlevideo.com	
+r4---sn-vgqsrnel.googlevideo.com	
+r2---sn-vgqsrnez.googlevideo.com	
+r4---sn-p5qs7n7z.googlevideo.com	
+r4---sn-p5qlsnz6.googlevideo.com	
+r1---sn-vgqsknez.googlevideo.com	
+r3---sn-p5qs7nel.googlevideo.com	
+r2---sn-vgqskn76.googlevideo.com
 
 #iphone
 r1---sn-ab5l6ndy.googlevideo.com
