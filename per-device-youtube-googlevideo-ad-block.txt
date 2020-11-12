@@ -23,8 +23,9 @@ r1---sn-p5qs7n7d.googlevideo.com
 r1---sn-p5qlsndk.googlevideo.com
 r5---sn-p5qlsndz.googlevideo.com
 #####################################
-#up to this point, i was able to block this with no problems watching
+#up to this point, i was able to block this with no problems watching.
 redirector.googlevideo.com
+#this one can be remain blocked.
 redirector.gvt1.com
 #####################################
 r6---sn-p5qs7ned.googlevideo.com
@@ -46,6 +47,11 @@ r2---sn-p5qs7n7d.googlevideo.com
 r3---sn-p5qlsnsd.googlevideo.com
 r4---sn-vgqsknek.googlevideo.com	
 r6---sn-p5qlsnz6.googlevideo.com
+r6---sn-vgqs7nly.googlevideo.com	
+r3---sn-vgqsknee.googlevideo.com	
+r6---sn-vgqsrn76.googlevideo.com	
+r4---sn-p5qlsndz.googlevideo.com	
+r3---sn-p5qlsndd.googlevideo.com
 
 
 
