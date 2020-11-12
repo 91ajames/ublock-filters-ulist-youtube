@@ -18,6 +18,9 @@
 @@||id.sonyentertainmentnetwork.com^$important
 @@||cdn-a.sonyentertainmentnetwork.com^$important
 
+#xboxone
+@@||fe3cr.delivery.mp.microsoft.com
+
 #espn
 @@||scorecardresearch.com^$important
 @@||espn.com^$important
