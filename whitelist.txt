@@ -22,7 +22,6 @@
 @@||fe3cr.delivery.mp.microsoft.com
 
 #espn
-@@||scorecardresearch.com^$important
 @@||espn.com^$important
 @@||a.espncdn.com^$important
 @@||email.unid.go.com
