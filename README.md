@@ -11,4 +11,4 @@
 
 ## Xbox picks up video ads alot quicker.
 - No reason why I have seperated them. Just to look back on which device I grabbed them from.
-- This may be the reason blocking https://redirect.youtube.com no longer works. Stops the video from playing now when I try to use it.
+- This may be the reason blocking https://redirect.youtube.com no longer works. Stops the video from playing now when I try to block it.
