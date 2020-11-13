@@ -1,3 +1,7 @@
+#Smart-TV #neccesarly for pictures of apps and logo's from the store. grabed these two from pihole.
+@@||aic-ngfts.lge.com
+@@||ngfts.lge.com
+
 #apple
 @@||apple.com^$important
 @@||ls-apple.com^important
