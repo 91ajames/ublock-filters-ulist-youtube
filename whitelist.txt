@@ -24,6 +24,8 @@
 
 #xboxone
 @@||fe3cr.delivery.mp.microsoft.com
+##GamePass DashBoard
+@@arc.msn.com
 
 #espn
 @@||espn.com^$important
