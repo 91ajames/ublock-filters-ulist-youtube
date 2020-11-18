@@ -89,3 +89,7 @@
 
 #Ghostery
 @@||collector-hpn.ghostery.net
+
+#weather.com The Weather Channel #s for pictures #v for video
+@@||s.w-x.co
+@@||v.w-x.co
