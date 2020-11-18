@@ -90,6 +90,7 @@
 #Ghostery
 @@||collector-hpn.ghostery.net
 
-#weather.com The Weather Channel #s for pictures #v for video
+#weather.com The Weather Channel #s for pictures #v for video #static for player and video with no ads without plugins.
 @@||s.w-x.co
 @@||v.w-x.co
+@@||static.adsafeprotected.com
