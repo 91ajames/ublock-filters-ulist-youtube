@@ -1,6 +1,9 @@
-#Smart-TV #neccesarly for pictures of apps and logo's from the store. grabed these two from pihole.
+#Smart-TV #neccesarly for pictures of apps and logo's from the store.
 @@||aic-ngfts.lge.com
 @@||ngfts.lge.com
+
+#Amazon Stick
+@@||mas-ext.amazon.com^ #app-store
 
 #apple
 @@||apple.com^$important
@@ -21,6 +24,10 @@
 @@||playstation.net^$important
 @@||id.sonyentertainmentnetwork.com^$important
 @@||cdn-a.sonyentertainmentnetwork.com^$important
+@@||scee-gb.widget.custhelp.com^$important
+#@@||inference.location.live.net^$important
+@@||cdn.decibelinsight.net^$important
+@@||image.playstationmail.net
 
 #xboxone
 @@||fe3cr.delivery.mp.microsoft.com
@@ -63,22 +70,32 @@
 @@||walmart.com
 @@||barnesandnoble.com^$important
 
-#email-images
-@@||image.emails.underarmour.com^$important
+#email-images #barnes and noble
+@@||image.emails.underarmour.com^$important #underarmmor
 @@||img.images-bn.com^$important
 @@||prodimage.images-bn.com^$important
 #@@||js.js-bn.com^$important
 @@||dispatch.barnesandnoble.com^$important
-#@@||css.css-bn.com^$important
-@@||docs.microsoft.com
-@@||xbox.com
+#@@||css.css-bn.com^$important 
+
+#email-images 
 @@||mgzqlnev.micpn.com
 @@||pixel.mathtag.com
-@@||ue.unrealengine.com
+@@||ue.unrealengine.com #unreal engine
+@@||docs.microsoft.com
+@@||xbox.com
 
 #Bath n Body Works - email
 @@||mgzqlnev.micpn.com
 @@||pixel.mathtag.com
+
+#stacksocail.com
+@@||js.stripe.com #email
+@@||track.email.stackcommerce.com #email
+@@||static.iterable.com #email
+#@@||jetlore.com #unsure
+#@@||spgo.io #unsure
+#@@||a.quora.com #unsure
 
 #hulu
 @@||play.hulu.com
@@ -90,7 +107,7 @@
 #Ghostery
 @@||collector-hpn.ghostery.net
 
-#weather.com The Weather Channel #s for pictures #v for video #static for player and video with no ads without plugins.
-@@||s.w-x.co
-@@||v.w-x.co
-@@||static.adsafeprotected.com
+#weather.com The Weather Channel
+@@||s.w-x.co #pictures for non played videos
+@@||v.w-x.co #video
+@@||static.adsafeprotected.com #video player, no need plugins for ads, adless
