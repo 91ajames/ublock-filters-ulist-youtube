@@ -1,6 +1,27 @@
+@@||malwaredomains.com^
+@@||malwaredomainlist.com^
+@@||github.developerdan.com^
+@@||github.io^
+@@||adaway.org^
+#ad list update block
+@@||anti-ad.net
+
+#apps
+@@||fruit-ninja-utc-c6h5m34znq-uc.a.run.app
+
+#mywot
+@@||mywot.com
+
+#game deals
+@@||g2a.com
+
 #Smart-TV #neccesarly for pictures of apps and logo's from the store.
 @@||aic-ngfts.lge.com
 @@||ngfts.lge.com
+@@||us.lgtvsdp.com
+@@||us.rdx2.lgtvsdp.com
+@@||us.info.lgsmartad.com
+#@@||cdn.samsungcloudsolution.com
 
 #Amazon Stick
 @@||mas-ext.amazon.com^ #app-store
@@ -15,6 +36,8 @@
 
 #pininterest
 @@||pinterest.com^$important
+@@||i.pinimg.com
+@@||v.pinimg.com
 
 #google
 @@||google.c$important
@@ -28,11 +51,20 @@
 #@@||inference.location.live.net^$important
 @@||cdn.decibelinsight.net^$important
 @@||image.playstationmail.net
+@@||ca.account.sony.com
+#SonyRewards
+@@||d3aa0ztdn3oibi.cloudfront.net
 
 #xboxone
 @@||fe3cr.delivery.mp.microsoft.com
 ##GamePass DashBoard
 @@arc.msn.com
+
+#trivia stuff
+@@||r20.rs6.net
+
+#firefox plugin
+@@||darkreader.org
 
 #espn
 @@||espn.com^$important
@@ -44,6 +76,11 @@
 @@||image.mail.disneyplus.com
 @@||click.mail.disneyplus.com
 @@||global.edge.bamgrid.com
+#appconfigs.disney-plus.net #amazon stick
+#disney.demdex.net #amazon stick - ublock blocks this ||demdex.net^
+
+#email-images
+@@||image.emails.underarmour.com^$important
 
 #fitbit
 @@||fitbit.com^$important
@@ -54,6 +91,11 @@
 
 #twitter short-link
 @@||t.co
+
+#facebook
+@@||facebook.com
+@@||static.xx.fbcdn.net
+@@||graph.facebook.com
 
 #DDOS-protection
 @@||ddos-guard.net
@@ -69,6 +111,21 @@
 @@||wal.co
 @@||walmart.com
 @@||barnesandnoble.com^$important
+@@||mail.barnesandnoble.com
+@@||img.images-bn.com^$important
+@@||prodimage.images-bn.com^$important
+#@@||pixel.app.returnpath.net
+#@@||js.js-bn.com^$important
+@@||dispatch.barnesandnoble.com^$important
+#@@||css.css-bn.com^$important
+@@||docs.microsoft.com
+@@||xbox.com
+@@||mgzqlnev.micpn.com
+@@||pixel.mathtag.com
+@@||ue.unrealengine.com
+@@||api.jetlore.com
+@@||assets.jetlore.com
+@@||static.iterable.com
 
 #email-images #barnes and noble
 @@||image.emails.underarmour.com^$important #underarmmor
@@ -103,9 +160,30 @@
 @@||hulustream.com^$important
 
 @@||www.vice.com
+@@||easyinfoblog.com
+@@||www.entrepreneur.com
 
 #Ghostery
 @@||collector-hpn.ghostery.net
+
+#stacksocail.com
+@@||js.stripe.com
+#@@||jetlore.com
+@@||track.email.stackcommerce.com
+@@||static.iterable.com
+#@@||spgo.io
+#@@||a.quora.com
+
+#cbslocal
+@@||cbslocal.com
+#cbslocal-picture
+@@||xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net
+#cbslocal-video-play
+@@||production-cmp.isgprivacy.cbsi.com
+@@||cbsi.com^
+#just in case-------
+#cbsnstream.cbsnews.com
+#vidtech.cbsinteractive.com
 
 #weather.com The Weather Channel
 @@||s.w-x.co #pictures for non played videos
