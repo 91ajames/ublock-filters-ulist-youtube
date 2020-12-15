@@ -1,10 +1,31 @@
-||verification-va.byteoversea.com/captcha/report
+||ipv4bot.whatismyipaddress.com^
+||msftconnecttest.com^
+||ipv6.msftconnecttest.com^
+||dns.msftncsi.com
+||aa.online-metrix.net^
+||mybestmv.com^
+||www.googleadservices.com^
+||ad.doubleclick.net^
+||i.pinimg.com.gslb.pinterest.com
+||v.pinimg.com.edgekey.net
+||2-01-37d2-0004.cdx.cedexis.net
+||dualstack.pinterest.map.fastly.net
+||v.pinimg.com.gslb.pinterest.com
+||2-01-37d2-0007.cdx.cedexis.net
+||e6449.dsce2.akamaiedge.net
+
+
+
+
+
+
+||verification-va.byteoversea.com
 ||byteoversea.com/slardar
 
 #tiktok
 ||mcs-va.tiktokv.com^
 
-#youtube
+#youtube - found thi on other places for plugins to use with
 ||youtube.com/pagead/^
 ||youtube.com/ptracking?^
 ||youtube.com/api/stats/qoe?^
