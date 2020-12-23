@@ -11,6 +11,7 @@
 
 #sites
 @@||mywot.com
+@@||fitbit.com
 @@||ebay.com
 @@||slate.com
 @@||tinyurl.com
@@ -91,9 +92,6 @@
 #email-images
 @@||image.emails.underarmour.com^$important
 
-#fitbit
-@@||fitbit.com^$important
-
 #tiktok
 @@||s16.tiktokcdn.com
 @@||mcs-va.tiktokv.com^
@@ -123,14 +121,7 @@
 @@||amazon.co.uk
 @@||wal.co
 @@||walmart.com
-@@||barnesandnoble.com^$important
-@@||mail.barnesandnoble.com
-@@||img.images-bn.com^$important
-@@||prodimage.images-bn.com^$important
 #@@||pixel.app.returnpath.net
-#@@||js.js-bn.com^$important
-@@||dispatch.barnesandnoble.com^$important
-#@@||css.css-bn.com^$important
 @@||docs.microsoft.com
 @@||xbox.com
 @@||mgzqlnev.micpn.com
@@ -138,22 +129,22 @@
 @@||ue.unrealengine.com
 @@||api.jetlore.com
 @@||assets.jetlore.com
-@@||static.iterable.com
 
 #email-images #barnes and noble
-@@||image.emails.underarmour.com^$important #underarmmor
+@@||barnesandnoble.com^$important
+@@||mail.barnesandnoble.com
+@@||prodimage.images-bn.com^$important
 @@||img.images-bn.com^$important
 @@||prodimage.images-bn.com^$important
 #@@||js.js-bn.com^$important
 @@||dispatch.barnesandnoble.com^$important
 #@@||css.css-bn.com^$important 
 
-#email-images 
-@@||mgzqlnev.micpn.com
-@@||pixel.mathtag.com
+#under-armor - email
+@@||image.emails.underarmour.com #underarmmor
 @@||ue.unrealengine.com #unreal engine
+
 @@||docs.microsoft.com
-@@||xbox.com
 
 #Bath n Body Works - email
 @@||mgzqlnev.micpn.com
