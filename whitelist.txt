@@ -124,9 +124,7 @@
 #@@||pixel.app.returnpath.net
 @@||docs.microsoft.com
 @@||xbox.com
-@@||mgzqlnev.micpn.com
-@@||pixel.mathtag.com
-@@||ue.unrealengine.com
+
 @@||api.jetlore.com
 @@||assets.jetlore.com
 
@@ -143,8 +141,6 @@
 #under-armor - email
 @@||image.emails.underarmour.com #underarmmor
 @@||ue.unrealengine.com #unreal engine
-
-@@||docs.microsoft.com
 
 #Bath n Body Works - email
 @@||mgzqlnev.micpn.com
