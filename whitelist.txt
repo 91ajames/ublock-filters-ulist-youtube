@@ -9,8 +9,14 @@
 #apps
 @@||fruit-ninja-utc-c6h5m34znq-uc.a.run.app
 
-#mywot
+#sites
 @@||mywot.com
+@@||ebay.com
+@@||slate.com
+@@||tinyurl.com
+@@||www.vice.com
+@@||easyinfoblog.com
+@@||www.entrepreneur.com
 
 #game deals
 @@||g2a.com
@@ -36,8 +42,8 @@
 
 #pininterest
 @@||pinterest.com^$important
-@@||i.pinimg.com
-@@||v.pinimg.com
+@@||i.pinimg.com #picture from ios app
+@@||v.pinimg.com #video from ios app
 
 #google
 @@||google.c$important
@@ -79,6 +85,9 @@
 #appconfigs.disney-plus.net #amazon stick
 #disney.demdex.net #amazon stick - ublock blocks this ||demdex.net^
 
+#ebay
+@@||vi.vipr.ebaydesc.com #ebay users may show a discription coming from another host/source
+
 #email-images
 @@||image.emails.underarmour.com^$important
 
@@ -96,6 +105,10 @@
 @@||facebook.com
 @@||static.xx.fbcdn.net
 @@||graph.facebook.com
+
+#target
+@@||c.la1-c2-iad.salesforceliveagent.com
+@@||d.la1-c2-iad.salesforceliveagent.com
 
 #DDOS-protection
 @@||ddos-guard.net
@@ -159,10 +172,6 @@
 @@||http-v-darwin.hulustream.com
 @@||hulustream.com^$important
 
-@@||www.vice.com
-@@||easyinfoblog.com
-@@||www.entrepreneur.com
-
 #Ghostery
 @@||collector-hpn.ghostery.net
 
@@ -184,6 +193,13 @@
 #just in case-------
 #cbsnstream.cbsnews.com
 #vidtech.cbsinteractive.com
+
+#mega-audio
+@@||playlist.megaphone.fm
+@@||player.megaphone.fm
+@@||traffic.megaphone.fm #audio feed
+#@@||adserver.va3.megaphone.cloud
+#@@||js-agent.newrelic.com
 
 #weather.com The Weather Channel
 @@||s.w-x.co #pictures for non played videos
