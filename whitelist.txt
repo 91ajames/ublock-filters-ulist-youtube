@@ -1,9 +1,9 @@
+#ad-list
 @@||malwaredomains.com^
 @@||malwaredomainlist.com^
 @@||github.developerdan.com^
 @@||github.io^
 @@||adaway.org^
-#ad list update block
 @@||anti-ad.net
 
 #apps
