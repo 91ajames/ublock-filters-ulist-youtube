@@ -14,6 +14,29 @@
 ||2-01-37d2-0007.cdx.cedexis.net
 ||e6449.dsce2.akamaiedge.net
 
+#weather
+||sp-mms.weather.com^
+||sodc.weather.com^
+||cdn3.optimizely.com^
+||cdn.optimizely.com^
+||cdn.taboola.com
+||clarium.global.ssl.fastly.net
+||weather.com^$important
+||ssl.p.jwpcdn.com
+||prd.jwpltx.com^
+||jwpltx.com^
+||jwpltx.com^$third-party
+||taboola.com^
+||jwpcdn.com
+||static.criteo.net^
+||cdn.adsafeprotected.com^
+||ads.rubiconproject.com^
+||js-sec.indexww.com^
+||z.moatads.com^
+||static.adsafeprotected.com^
+||api.amplitude.com^
+||tags.crwdcntrl.net^
+||triggers.wfxtriggers.com^
 
 
 
