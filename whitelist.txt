@@ -90,7 +90,18 @@
 @@||click.mail.disneyplus.com
 @@||global.edge.bamgrid.com
 #appconfigs.disney-plus.net #amazon stick
-#disney.demdex.net #amazon stick - ublock blocks this ||demdex.net^
+#disney.demdex.net #amazon stick - ublock plugin blocks this ||demdex.net^
+@@||config-cd-dmgz.bamgrid.com
+@@||cd-dmgz.bamgrid.com
+#@@||disney.my.sentry.io
+@@||bam-sdk-configs.bamgrid.com
+@@||search-api-disney.svcs.dssott.com #this is needed or half the dashboard loads with missing images.
+@@||prod-ripcut-delivery.disney-plus.net
+@@||vpe-static.bamgrid.com #Disney will not connect to the servers without whitelisting this one first.
+#look for server links looking like this, this is where Disney gets there feed from.
+#vod-akc-na-east-1.media.dssott.com
+#vod-llc-na-east-1.media.dssott.com
+#vod-cmc-na-east-1.media.dssott.com
 
 #ebay
 @@||vi.vipr.ebaydesc.com #ebay users may show a discription coming from another host/source
