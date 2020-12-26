@@ -8,6 +8,7 @@
 
 #apps
 @@||fruit-ninja-utc-c6h5m34znq-uc.a.run.app
+@@||cloud.rovio.com
 
 #Amazon
 @@||images-na.ssl-images-amazon.com
@@ -27,9 +28,12 @@
 @@||xbox.com
 @@||wal.co
 @@||walmart.com
-@@||ddos-guard.net #DDOS-protection on some websites before you gain access
-@@||blobs.officehome.msocdn.com #Home-Office-Windows
-@@||collector-hpn.ghostery.net #Ghostery plugin, you may choose to blocklist or share what you know to them to make it better
+#DDOS-protection on some websites before you gain access
+@@||ddos-guard.net
+#Home-Office-Windows
+@@||blobs.officehome.msocdn.com
+#Ghostery plugin, you may choose to blocklist or share what you know to them to make it better
+@@||collector-hpn.ghostery.net
 
 #game deals
 @@||g2a.com
@@ -42,13 +46,15 @@
 @@||us.info.lgsmartad.com
 #@@||cdn.samsungcloudsolution.com
 
-#apple
+#Apple
 @@||apple.com^$important
 @@||ls-apple.com^important
 @@||gsp-ssl.ls-apple.com^important
 @@||icloud.com^$important
 @@||apple-dns.net^$important
 @@||cdn-apple.com^$important
+#Apple Payment
+@@||cs9.wac.phicdn.net
 
 #pininterest
 @@||pinterest.com^$important
@@ -119,9 +125,12 @@
 #facebook
 @@||facebook.com
 @@||static.xx.fbcdn.net
-@@||graph.facebook.com #Apple Share Photo App
-@@||scontent-iad3-1.xx.fbcdn.net #pictures
-@@||video-iad3-1.xx.fbcdn.net #videos
+#Apple Share Photo App
+@@||graph.facebook.com
+#pictures
+@@||scontent-iad3-1.xx.fbcdn.net
+#videos
+@@||video-iad3-1.xx.fbcdn.net
 
 #target
 @@||c.la1-c2-iad.salesforceliveagent.com
@@ -148,8 +157,9 @@
 #@@||css.css-bn.com^$important 
 
 #under-armor - email
-@@||image.emails.underarmour.com #underarmmor
-@@||ue.unrealengine.com #unreal engine
+@@||image.emails.underarmour.com
+#unreal engine
+@@||ue.unrealengine.com
 
 #Bath n Body Works - email
 @@||mgzqlnev.micpn.com
@@ -182,11 +192,15 @@
 #mega-audio
 @@||playlist.megaphone.fm
 @@||player.megaphone.fm
-@@||traffic.megaphone.fm #audio feed
+#audio feed
+@@||traffic.megaphone.fm
 #@@||adserver.va3.megaphone.cloud
 #@@||js-agent.newrelic.com
 
 #weather.com The Weather Channel
-@@||s.w-x.co #pictures for non played videos
-@@||v.w-x.co #video
-@@||static.adsafeprotected.com #video player, no need plugins for ads, adless
+#pictures for non played videos
+@@||s.w-x.co
+#video
+@@||v.w-x.co
+#video player, no need plugins for ads, adless
+@@||static.adsafeprotected.com
