@@ -14,6 +14,8 @@
 @@||images-na.ssl-images-amazon.com
 @@||mas-ext.amazon.com^ #app-store for amazon stick
 @@||amazon.co.uk
+@@||g-ec2.images-amazon.com
+@@||g-ecx.images-amazon.com
 
 #sites
 @@||mywot.com
