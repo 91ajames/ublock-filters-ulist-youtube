@@ -97,7 +97,7 @@
 @@||image.mail.disneyplus.com
 @@||click.mail.disneyplus.com
 @@||global.edge.bamgrid.com
-#appconfigs.disney-plus.net #amazon stick
+@@||appconfigs.disney-plus.net
 #disney.demdex.net #amazon stick - ublock plugin blocks this ||demdex.net^
 @@||config-cd-dmgz.bamgrid.com
 @@||cd-dmgz.bamgrid.com
@@ -110,6 +110,10 @@
 #vod-akc-na-east-1.media.dssott.com
 #vod-llc-na-east-1.media.dssott.com
 #vod-cmc-na-east-1.media.dssott.com
+#vod-ftc-na-east-1.media.dssott.com
+@@||prod-static.disney-plus.net
+@@||search-api-disney.bamgrid.com
+@@||playback-certs.bamgrid.com
 
 #ebay
 @@||vi.vipr.ebaydesc.com #ebay users may show a discription coming from another host/source
