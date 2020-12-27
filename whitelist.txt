@@ -74,6 +74,8 @@
 @@||cdn.decibelinsight.net^$important
 @@||image.playstationmail.net
 @@||ca.account.sony.com
+@@||email.sonyentertainmentnetwork.com
+@@||f.email.sonyentertainmentnetwork.com
 #SonyRewards
 @@||d3aa0ztdn3oibi.cloudfront.net
 
@@ -155,6 +157,10 @@
 #@@||js.js-bn.com^$important
 @@||dispatch.barnesandnoble.com^$important
 #@@||css.css-bn.com^$important 
+@@||mi.barnesandnoble.com
+#@@||ink1001.com
+@@||fzw2gc2p.micpn.comfzw2gc2p.micpn.com
+
 
 #under-armor - email
 @@||image.emails.underarmour.com
