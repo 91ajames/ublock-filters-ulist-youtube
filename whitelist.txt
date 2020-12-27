@@ -181,6 +181,7 @@
 @@||js.stripe.com #email
 @@||track.email.stackcommerce.com #email
 @@||static.iterable.com #email
+@@||cdnp1.stackassets.com
 #@@||jetlore.com #unsure
 #@@||spgo.io #unsure
 #@@||a.quora.com #unsure
