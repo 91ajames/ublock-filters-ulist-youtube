@@ -132,6 +132,7 @@
 
 ! email-images
 @@||image.emails.underarmour.com^$important
+@@||rs-stripe.rightsidepatriot.com
 
 ! tiktok
 @@||s16.tiktokcdn.com
@@ -188,12 +189,12 @@
 @@||pixel.mathtag.com
 
 ! stacksocail.com
-@@||js.stripe.com #email
-@@||track.email.stackcommerce.com #email
-@@||static.iterable.com #email
-! @@||jetlore.com #unsure
-! @@||spgo.io #unsure
-! @@||a.quora.com #unsure
+@@||js.stripe.com !email
+@@||track.email.stackcommerce.com !email
+@@||static.iterable.com !email
+! @@||jetlore.com !unsure
+! @@||spgo.io !unsure
+! @@||a.quora.com !unsure
 
 ! TechnoBuffalo
 @@||cdnp0.stackassets.com
