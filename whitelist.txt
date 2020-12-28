@@ -1,4 +1,4 @@
-#ad-list
+! ad-list
 @@||malwaredomains.com^
 @@||malwaredomainlist.com^
 @@||github.developerdan.com^
@@ -6,41 +6,49 @@
 @@||adaway.org^
 @@||anti-ad.net
 
-#apps
+! apps
 @@||fruit-ninja-utc-c6h5m34znq-uc.a.run.app
-@@||cloud.rovio.com
+@@||cloud.rovio.com ! Angry Birds Account
 
-#Amazon
+! Amazon
 @@||images-na.ssl-images-amazon.com
-@@||mas-ext.amazon.com^ #app-store for amazon stick
+@@||mas-ext.amazon.com^ ! app-store for amazon stick
 @@||amazon.co.uk
 @@||g-ec2.images-amazon.com
 @@||g-ecx.images-amazon.com
 
-#sites
-@@||mywot.com
-@@||fitbit.com
+! sites
+@@||darkreader.org ! firefox plugin
 @@||ebay.com
+@@||easyinfoblog.com
+@@||entrepreneur.com
+@@||fitbit.com
+@@||hbomax.com
+@@||msn.com
+@@||mywot.com
 @@||slate.com
 @@||tinyurl.com
-@@||www.vice.com
-@@||easyinfoblog.com
-@@||www.entrepreneur.com
-@@||darkreader.org #firefox plugin
+@@||vice.com
 @@||xbox.com
 @@||wal.co
 @@||walmart.com
-#DDOS-protection on some websites before you gain access
+! DDOS-protection on some websites before you gain access
 @@||ddos-guard.net
-#Home-Office-Windows
+! Home-Office-Windows
 @@||blobs.officehome.msocdn.com
-#Ghostery plugin, you may choose to blocklist or share what you know to them to make it better
+! Ghostery plugin, you may choose to blocklist or share what you know to them to make it better
 @@||collector-hpn.ghostery.net
+! imdb
+@@||ia.media-imdb.com
 
-#game deals
+! game deals
 @@||g2a.com
 
-#Smart-TV #neccesarly for pictures of apps and logo's from the store.
+! treesize download
+@@||customers.jam-software.de
+@@||downloads.jam-software.de
+
+! Smart-TV ! neccesarly for pictures of apps and logo's from the store.
 @@||aic-ngfts.lge.com
 @@||ngfts.lge.com
 @@||us.lgtvsdp.com
@@ -48,175 +56,177 @@
 @@||us.info.lgsmartad.com
 #@@||cdn.samsungcloudsolution.com
 
-#Apple
+! Apple
 @@||apple.com^$important
 @@||ls-apple.com^important
 @@||gsp-ssl.ls-apple.com^important
 @@||icloud.com^$important
 @@||apple-dns.net^$important
 @@||cdn-apple.com^$important
-#Apple Payment
+!Apple Payment
 @@||cs9.wac.phicdn.net
 
-#pininterest
+! pininterest
 @@||pinterest.com^$important
 @@||i.pinimg.com #picture from ios app
 @@||v.pinimg.com #video from ios app
 
-#google
+! google
 @@||google.c$important
+#google forms short link
+@@||forms.gle
 
-#playstation
+! playstation
 @@||playstation.com^$important
 @@||playstation.net^$important
 @@||id.sonyentertainmentnetwork.com^$important
 @@||cdn-a.sonyentertainmentnetwork.com^$important
 @@||scee-gb.widget.custhelp.com^$important
-#@@||inference.location.live.net^$important
+! @@||inference.location.live.net^$important
 @@||cdn.decibelinsight.net^$important
 @@||image.playstationmail.net
 @@||ca.account.sony.com
 @@||email.sonyentertainmentnetwork.com
 @@||f.email.sonyentertainmentnetwork.com
-#SonyRewards
+! SonyRewards
 @@||d3aa0ztdn3oibi.cloudfront.net
 
-#xboxone
+! xboxone
 @@||fe3cr.delivery.mp.microsoft.com
-##GamePass DashBoard
+! GamePass DashBoard
 @@arc.msn.com
 
-#trivia stuff
+! trivia stuff
 @@||r20.rs6.net
 
-#espn
+! espn
 @@||espn.com^$important
 @@||a.espncdn.com^$important
 @@||email.unid.go.com
 
-#disney
+! disney
 @@||cdn.registerdisney.go.com^$important
 @@||image.mail.disneyplus.com
 @@||click.mail.disneyplus.com
 @@||global.edge.bamgrid.com
 @@||appconfigs.disney-plus.net
-#disney.demdex.net #amazon stick - ublock plugin blocks this ||demdex.net^
+! disney.demdex.net ! amazon stick - ublock plugin blocks this ||demdex.net^
 @@||config-cd-dmgz.bamgrid.com
 @@||cd-dmgz.bamgrid.com
-#@@||disney.my.sentry.io
+! @@||disney.my.sentry.io
 @@||bam-sdk-configs.bamgrid.com
-@@||search-api-disney.svcs.dssott.com #this is needed or half the dashboard loads with missing images.
+@@||search-api-disney.svcs.dssott.com ! this is needed or half the dashboard loads with missing images.
 @@||prod-ripcut-delivery.disney-plus.net
-@@||vpe-static.bamgrid.com #Disney will not connect to the servers without whitelisting this one first.
-#look for server links looking like this, this is where Disney gets there feed from.
-#vod-akc-na-east-1.media.dssott.com
-#vod-llc-na-east-1.media.dssott.com
-#vod-cmc-na-east-1.media.dssott.com
-#vod-ftc-na-east-1.media.dssott.com
+@@||vpe-static.bamgrid.com ! Disney will not connect to the servers without whitelisting this one first.
+! look for server links looking like this, this is where Disney gets there feed from.
+! vod-akc-na-east-1.media.dssott.com
+! vod-llc-na-east-1.media.dssott.com
+! vod-cmc-na-east-1.media.dssott.com
+! vod-ftc-na-east-1.media.dssott.com
 @@||prod-static.disney-plus.net
 @@||search-api-disney.bamgrid.com
 @@||playback-certs.bamgrid.com
 
-#ebay
+! ebay
 @@||vi.vipr.ebaydesc.com #ebay users may show a discription coming from another host/source
 
-#email-images
+! email-images
 @@||image.emails.underarmour.com^$important
 
-#tiktok
+! tiktok
 @@||s16.tiktokcdn.com
 @@||mcs-va.tiktokv.com^
 
-#twitter short-link
+! twitter short-link
 @@||t.co
 
-#facebook
+! facebook ! Anything else for facebook can be blocked.
 @@||facebook.com
 @@||static.xx.fbcdn.net
-#Apple Share Photo App
+! Apple Share Photo App
 @@||graph.facebook.com
-#pictures
+! pictures
 @@||scontent-iad3-1.xx.fbcdn.net
-#videos
+! videos
 @@||video-iad3-1.xx.fbcdn.net
 
-#target
+! target
 @@||c.la1-c2-iad.salesforceliveagent.com
 @@||d.la1-c2-iad.salesforceliveagent.com
 
-#
+! 
 @@||currys-ssl.cdn.dixons.com
 
-#online-stores+email
-#@@||pixel.app.returnpath.net
+! online-stores+email
+! @@||pixel.app.returnpath.net
 @@||docs.microsoft.com
 
 @@||api.jetlore.com
 @@||assets.jetlore.com
 
-#email-images #barnes and noble
+! email-images #barnes and noble
 @@||barnesandnoble.com^$important
 @@||mail.barnesandnoble.com
 @@||prodimage.images-bn.com^$important
 @@||img.images-bn.com^$important
 @@||prodimage.images-bn.com^$important
-#@@||js.js-bn.com^$important
+! @@||js.js-bn.com^$important
 @@||dispatch.barnesandnoble.com^$important
-#@@||css.css-bn.com^$important 
+! @@||css.css-bn.com^$important 
 @@||mi.barnesandnoble.com
-#@@||ink1001.com
+! @@||ink1001.com
 @@||fzw2gc2p.micpn.comfzw2gc2p.micpn.com
 
 
-#under-armor - email
+! under-armor - email
 @@||image.emails.underarmour.com
-#unreal engine
+! unreal engine
 @@||ue.unrealengine.com
 
-#Bath n Body Works - email
+! Bath n Body Works - email
 @@||mgzqlnev.micpn.com
 @@||pixel.mathtag.com
 
-#stacksocail.com
+! stacksocail.com
 @@||js.stripe.com #email
 @@||track.email.stackcommerce.com #email
 @@||static.iterable.com #email
-#@@||jetlore.com #unsure
-#@@||spgo.io #unsure
-#@@||a.quora.com #unsure
+! @@||jetlore.com #unsure
+! @@||spgo.io #unsure
+! @@||a.quora.com #unsure
 
-#TechnoBuffalo
+! TechnoBuffalo
 @@||cdnp0.stackassets.com
 @@||cdnp1.stackassets.com
 
-#hulu
+! hulu
 @@||play.hulu.com
 @@||http-v-darwin.hulustream.com
 @@||hulustream.com^$important
 
-#cbslocal
+! cbslocal
 @@||cbslocal.com
-#cbslocal-picture
+! cbslocal-picture
 @@||xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net
-#cbslocal-video-play
+! cbslocal-video-play
 @@||production-cmp.isgprivacy.cbsi.com
 @@||cbsi.com^
-#just in case-------
-#cbsnstream.cbsnews.com
-#vidtech.cbsinteractive.com
+! just in case-------
+! cbsnstream.cbsnews.com
+! vidtech.cbsinteractive.com
 
-#mega-audio
+! mega-audio
 @@||playlist.megaphone.fm
 @@||player.megaphone.fm
-#audio feed
+! audio feed
 @@||traffic.megaphone.fm
-#@@||adserver.va3.megaphone.cloud
-#@@||js-agent.newrelic.com
+! @@||adserver.va3.megaphone.cloud
+! @@||js-agent.newrelic.com
 
-#weather.com The Weather Channel
-#pictures for non played videos
+! weather.com The Weather Channel
+! pictures for non played videos
 @@||s.w-x.co
-#video
+! video
 @@||v.w-x.co
-#video player, no need plugins for ads, adless
+! video player, no need plugins for ads, adless
 @@||static.adsafeprotected.com
