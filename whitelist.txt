@@ -7,8 +7,35 @@
 @@||anti-ad.net
 
 ! apps
-@@||fruit-ninja-utc-c6h5m34znq-uc.a.run.app
+@@||fruit-ninja-utc-c6h5m34znq-uc.a.run.app ! Fruit Ninja
 @@||cloud.rovio.com ! Angry Birds Account
+
+! plants vs Zombies Heroes
+@@||syn-dir.sn.eamobile.com
+@@||stats.popcap.com
+@@||static-www.ec.popcap.com
+@@||user.sn.eamobile.com
+!@@||product.sn.eamobile.com !remain block for now
+!@@||ping1.tnt-ea.com !remain block for now
+!@@||mars.tnt-ea.com !remain block for now
+!@@||pn.tnt-ea.com !remain block for now
+
+! Minions Run - Added others that pings the urls while the app is loaded.
+@@||gameloft.com^
+!@@||gdid.gsmeloft.com
+!@@||game-portal.gameloft.com
+!@@||iris06-gold-ssl.gameloft.com
+!@@||201205igp.gameloft.com
+!@@||vgold.gameloft.com
+!@@||bob-fed.gameloft
+!@@||etsv2.datalake.gameloft.com
+!@@||eve.gameloft.com
+!@@||iap-gen.gameloft.com
+!@@||bob-seshat.gameloft.com
+!@@||bob-osiris.gameloft.com
+!@@||bob-hestia.gameloft.com
+!@@||bob-iris.gameloft.com
+!@@||bob-janus.gameloft.com
 
 ! Amazon
 @@||images-na.ssl-images-amazon.com
@@ -54,7 +81,7 @@
 @@||us.lgtvsdp.com
 @@||us.rdx2.lgtvsdp.com
 @@||us.info.lgsmartad.com
-#@@||cdn.samsungcloudsolution.com
+!@@||cdn.samsungcloudsolution.com
 
 ! Apple
 @@||apple.com^$important
