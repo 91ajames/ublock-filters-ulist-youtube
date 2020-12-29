@@ -2,9 +2,7 @@
 - Personal block and white list with a few adlist domains that I have added to AdGuard Home along with Pi-Hole.
 - One of the filters I use for this project is ![hl2guid](https://github.com/hl2guide/Filterlist-for-AdGuard)
 - Also use ![kboghdady](https://github.com/kboghdady/youTube_ads_4_pi-hole) project to fill some whitelist.
-
-
-# Time to time, I will add some apps that needs them in order for the game/non-game to run ok.
+- Time to time, I will add some apps that needs them in order for the game/non-game to run ok.
 
 
 # YouTube
