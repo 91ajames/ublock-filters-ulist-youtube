@@ -1,4 +1,4 @@
-Oneof things I use that helps greatly is kboghdady https://github.com/kboghdady/youTube_ads_4_pi-hole
+One of things I use that helps greatly is kboghdady https://github.com/kboghdady/youTube_ads_4_pi-hole
 
 # YouTube
 
